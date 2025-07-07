@@ -10,7 +10,7 @@ For input transformation attacks, Code refer to: [Spectrum Simulation Attack](ht
 
 For Feature destruction attacks, Code refer to: [Neuron Attribution-Based Attacks](https://github.com/jpzhang1810/NAA).
 
-For the formation of adversarial example soups, it is only necessary to average the images of multi-batche adversarial examples.
+For the formation of adversarial example soups, it is only necessary to average the images of multi-batch adversarial examples.
 
 ## Contact Us
 If you have any problem with this work, please feel free to reach us at yangbo_hn@163.com
